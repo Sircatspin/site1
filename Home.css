@@ -1,0 +1,139 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 114px;
+  height: 114px;
+  margin: 43px 336px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 114px;
+  height: 114px;
+  margin: -114px auto 0 248px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -83px auto 0 405px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 75px 202px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -31px auto 0 125px;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 83px 374px 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  margin: -31px auto 0 353px;
+}
+
+.u-section-1 .u-text-6 {
+  margin: 55px 159px 0 auto;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 14px auto 60px 248px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 334px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 308px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 291px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 256px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 236px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 223px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 190px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 192px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 152px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 69px;
+    margin-right: 177px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: -10px;
+    margin-left: 167px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 143px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-right: 226px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 226px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 121px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 96px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 79px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-top: 53px;
+    margin-right: 111px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-top: 14px;
+    margin-left: 105px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 100px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-left: 90px;
+  }
+}
